@@ -1,7 +1,7 @@
 {
   "name": "myportfolio-anderson",
   "version": "0.1.0",
-  "homepage": "http://evidenciasponao.github.io/anderson.git",
+  "homepage": "http://evidenciasponao.github.io/anderson",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
